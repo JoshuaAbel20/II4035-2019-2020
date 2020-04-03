@@ -1,0 +1,1 @@
+direktori ini berisi file hasil scan yang sudah dicrop per karakter
